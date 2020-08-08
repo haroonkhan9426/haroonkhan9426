@@ -2,7 +2,7 @@
 
 ### Hi, I'm Haroon Khan 👋
 
-I’m an Flutter Developer, writer and public speaker. I'm the co-founder of [TripMate](https://tripmate.pk), a digital tour guide  that helps tourists find best attractions, hotels, restaurants and plan their trips more conviniently. I currently work as a Flutter Engineer at AntonX.
+I’m a Flutter Developer, writer and public speaker. I'm the co-founder of [TripMate](https://tripmate.pk), a digital tour guide  that helps tourists find best attractions, hotels, restaurants and plan their trips more conviniently. I currently work as a Flutter Engineer at AntonX.
 
 - 📱  I’m currently working on [TripMate](https://tripmate.pk) and [AntonX](https://web.facebook.com/MyAntonX/).
 - 🤓  I’m currently learning advance Flutter Architectures.
