@@ -4,8 +4,8 @@
 
 I’m a Flutter Developer, writer and public speaker. I'm the co-founder of [TripMate](https://tripmate.pk), a digital tour guide  that helps tourists find best attractions, hotels, restaurants and plan their trips more conviniently in Pakistan🇵🇰. I currently work as a Flutter Engineer at [AntonX](https://web.facebook.com/MyAntonX/).
 
-- 📱  I’m currently working on [TripMate](https://tripmate.pk) and [AntonX](https://web.facebook.com/MyAntonX/).
-- 🤓  I’m currently learning advance Flutter Architectures.
+- 📱  I’m currently working at [TripMate](https://tripmate.pk) and [AntonX](https://web.facebook.com/MyAntonX/).
+- 🤓  I’m currently thinking to shift to AI and Data Science.
 - 💬  Ask me about Flutter development, Pakistan Tourism and Pashtoo Culture.
 - 📫  How to reach me: haroonkhan9426@gmail.com or Twitter [@engrharoonkhan](twitter.com/engrharoonkhan)
 - 🚴🏽‍♀️  Fun fact: I love exploring new tourist destinations and I'm currently planning for my next expedition.
