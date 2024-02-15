@@ -2,10 +2,11 @@
 
 ### Hi, I'm Haroon Khan 👋
 
-I’m a Flutter Developer, writer and public speaker. I'm the co-founder of [TripMate](https://tripmate.pk), a digital tour guide  that helps tourists find best attractions, hotels, restaurants and plan their trips more conviniently in Pakistan🇵🇰. I currently work as a Flutter Engineer at [AntonX](https://web.facebook.com/MyAntonX/).
+Helping startups from last five years to build robust, secure and scalable solutions that add value in B2B and B2C segment. Here are few recent work roles:
 
-- 📱  I’m currently working at [TripMate](https://tripmate.pk) and [AntonX](https://web.facebook.com/MyAntonX/).
-- 🤓  I’m currently currently working on React for frontend along with DS/ML and Blockchain. And planning to do aws cloud certifications soon.
-- 💬  Ask me about Flutter development, Pakistan Tourism and Pashtoo Culture.
-- 📫  How to reach me: haroonkhan9426@gmail.com or Twitter [@engrharoonkhan](twitter.com/engrharoonkhan)
-- 🚴🏽‍♀️  Fun fact: I love exploring new tourist destinations and I'm currently planning for my next expedition.
+- Team Lead in restaurants marketplace and last mile food delivery platform
+- Team Lead in Gig based work platform just like fiverr
+- Team lead in multiple other e-commerce multi-vendor platforms
+- Lead Migration from a Monolithic to micro-services based architecture on K8s
+
+Want to get in touch, please reach out at haroon@antonx.com
